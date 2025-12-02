@@ -1,5 +1,5 @@
 create user 'ajax_prototype'@'localhost' identified by 'ajax_prototype';
-grant all privileges on *.* to 'ajax_prototype'@'localhost' with grant option;
+grant all privileges on ajax_prototype.* to 'ajax_prototype'@'localhost' with grant option;
 
 use wages_monthly_db;
 create table employee
@@ -14,3 +14,4 @@ values
 ('Ritesh Dhiman',40000),
 
 ('Sam Verma',60000);
+
