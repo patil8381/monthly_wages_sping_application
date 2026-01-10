@@ -3,7 +3,10 @@ I have created this application and its source code is private and uploaded the 
 
 To test the jar, 
 
-git pull this repo and run the jar file via below in cmd 
+git pull this repo and 
+run the sql source file to create db and  
+
+run the jar file via below in cmd 
 
 java -jar wages-0.0.1-SNAPSHOT.jar
 
